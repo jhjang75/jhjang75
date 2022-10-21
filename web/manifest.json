@@ -1,6 +1,6 @@
 {
-    "name": "calculator",
-    "short_name": "calculator",
+    "name": "calculator_git",
+    "short_name": "calculator_git",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
